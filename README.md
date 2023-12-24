@@ -1,7 +1,7 @@
 # Домашнее задание к занятию "Композиция компонентов"
-## Задание 1. Карточки.
+## Задание 2. Декомпозиция.
 
 ## GitHub Pages
-https://dolinin2021.github.io/comp_cards/
+https://dolinin2021.github.io/decomposition_ra/
 
-[![Build status](https://ci.appveyor.com/api/projects/status/6g1s3b05xym3ofx5?svg=true)](https://ci.appveyor.com/project/Dolinin2021/comp-cards)
+[![Build status](https://ci.appveyor.com/api/projects/status/1tx62vtb2q57gruu?svg=true)](https://ci.appveyor.com/project/Dolinin2021/decomposition-ra)
